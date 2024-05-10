@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008b8b</color>
+    <color name="colorPrimaryDark">#008b8b</color> <!-- Changed colorPrimaryDark to #008b8b -->
+    <color name="colorAccent">#04062A</color>
+    <color name="colorcyan">#00ffff</color>
+    <color name="Androidgreen">#a4c639</color>
+    <color name="Flame">#e25822</color>
+</resources>
